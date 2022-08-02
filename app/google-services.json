@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244147939489",
+    "project_id": "projectpetcare-b8ee0",
+    "storage_bucket": "projectpetcare-b8ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244147939489:android:2e5e04d395cbffd7bbe8e0",
+        "android_client_info": {
+          "package_name": "tuan.aprotrain.projectpetcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244147939489-dedonase1fpgnelhajq241k0r2dg9hmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSwMu-TRuTU_1dTgsyK1I9ljxr13JPYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244147939489-dedonase1fpgnelhajq241k0r2dg9hmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
